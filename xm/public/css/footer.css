@@ -1,0 +1,11 @@
+/*底部分割条*/
+.beig{
+    width:100%;
+    height:5rem;
+    background:linear-gradient(to bottom,#000000,#353535);
+}
+.beig_bottom{
+    width:100%;
+    height:3rem;
+    background-color:#13589c;
+}

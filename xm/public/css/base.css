@@ -1,0 +1,40 @@
+/*设置小字体*/
+.my_small{
+    font-size:0.8rem;
+}
+/*a标记点击时无下划线*/
+body a:hover{
+    text-decoration: none;
+}
+/*设置引入头部的高宽*/
+.my_header{
+     width:100%;
+     height:8rem;
+ }
+@media screen and (max-width: 991px){
+    .my_header{
+        width:100%;
+        height:14rem;
+    }
+}
+.my_footer{
+    width:100%;
+    height:37rem;
+}
+@media screen and (max-width:991px){
+    .my_footer{
+        width:100%;
+        height:90rem;
+    }
+}
+/*另一个*/
+.my_header_0{
+    width:100%;
+    height:30rem;
+}
+@media screen and (max-width: 991px){
+    .my_header{
+        width:100%;
+        height:35rem;
+    }
+}
